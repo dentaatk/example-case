@@ -7,20 +7,20 @@ global.APIs = {
 
 // Apikey
 global.APIKeys = {
-	'https://api.zeeoneofc.my.id': 'Your Key',
+	'https://api.zeeoneofc.my.id': 'sqA8wYDvdOCwmFT',
 }
 
-global.namabot = "Bot Store"
-global.namaowner = "Zeeoneofc"
-global.packname = namabot
-global.author = namaowner
-global.myweb = "https://s.id/zeeoneofc"
+global.namabot = "EBOT"
+global.namaowner = "GOMBLOH"
+global.packname = "EBOT"
+global.author = "GOMBLOH"
+global.myweb = "BELUM ADA WEB"
 global.footer_text = "© " + namabot
 global.pp_bot = fs.readFileSync("./image/foto.jpg")
 global.qris = fs.readFileSync("./image/qris.jpg")
-global.owner = ['62887435047326']
+global.owner = ['6281210944252']
 global.sessionName = 'session'
-global.background = "https://telegra.ph/file/40342e0085d521cb8b907.jpg" //maks size 100kb agar welcome nya gk lemot
+global.background = "https://telegra.ph/file/3b8bf171720e3ff73169a.jpg" //maks size 100kb agar welcome nya gk lemot
 global.prefa = ['-_-']
 global.mess = {
     done: 'Done ✅',
